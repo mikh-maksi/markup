@@ -5,7 +5,8 @@
 об’єкта на число.  
 Нехай задано два стовпці 
 
-$$ \overrightarrow{x} = \left( x_{i} \right)_{m} = \begin{pmatrix}
+$$ 
+\overrightarrow{x} = \left( x_{i} \right)_{m} = \begin{pmatrix}
 x_1 \\
 ... \\
 x_n
@@ -15,3 +16,4 @@ y_i \\
 y_m
 
 \end{pmatrix}. $$ 
+
