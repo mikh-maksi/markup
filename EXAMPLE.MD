@@ -6,11 +6,11 @@
 Нехай задано два стовпці 
 
 $$
-\overrightarrow{x} = \left( x_{i}
+\overrightarrow{x} = \left( x_{i}  \right)_{m}
 $$
 
 $$ 
- \right)_{m} = \begin{pmatrix}
+ = \begin{pmatrix}
 x_1 \\
 ... \\
 x_n
@@ -21,6 +21,7 @@ y_m
 
 \end{pmatrix}. 
 $$ 
+
 
 
 
