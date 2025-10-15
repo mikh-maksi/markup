@@ -15,5 +15,7 @@ y_i \\
 ... \\
 y_m
 
-\end{pmatrix}. $$ 
+\end{pmatrix}. 
+$$ 
+
 
