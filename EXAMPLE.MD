@@ -9,18 +9,23 @@ $$
 \overrightarrow{x} = \left( x_{i}  \right)_{m}
 $$
 
-$$ 
- = \begin{pmatrix}
+$$
+\overrightarrow{x} = (x_i)_{i=1}^{n} =
+\begin{pmatrix}
 x_1 \\
-... \\
+\vdots \\
 x_n
-\end{pmatrix},\overrightarrow{y}=\left( y_{i} \right)_{m}=\begin{pmatrix}
-y_i \\
-... \\
+\end{pmatrix},
+\quad
+\overrightarrow{y} = (y_i)_{i=1}^{m} =
+\begin{pmatrix}
+y_1 \\
+\vdots \\
 y_m
+\end{pmatrix}.
+$$
 
-\end{pmatrix}. 
-$$ 
+
 
 
 
