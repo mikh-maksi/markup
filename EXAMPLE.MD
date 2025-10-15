@@ -6,24 +6,21 @@
 Нехай задано два стовпці 
 
 $$
-\overrightarrow{x} = \left( x_{i}  \right)_{m}
-$$
-
-$$
-\overrightarrow{x} = (x_i)_{i=1}^{n} =
+\overrightarrow{x} = (x_i)_m =
 \begin{pmatrix}
 x_1 \\
 \vdots \\
 x_n
 \end{pmatrix},
 \quad
-\overrightarrow{y} = (y_i)_{i=1}^{m} =
+\overrightarrow{y} = (y_i)_m =
 \begin{pmatrix}
 y_1 \\
 \vdots \\
 y_m
 \end{pmatrix}.
 $$
+
 
 
 
